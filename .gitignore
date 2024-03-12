@@ -23,3 +23,5 @@ go.work
 builds
 
 .idea
+
+.DS_Store
